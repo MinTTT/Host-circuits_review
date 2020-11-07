@@ -1,0 +1,89 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'SLCN_template.blg'
+[55] biber-MSWIN32:315> INFO - === 
+[101] Biber.pm:371> INFO - Reading 'SLCN_template.bcf'
+[267] Biber.pm:889> INFO - Found 101 citekeys in bib section 0
+[282] Biber.pm:4093> INFO - Processing section 0
+[296] Biber.pm:4254> INFO - Looking for bibtex format file 'library.bib' for section 0
+[441] bibtex.pm:1523> INFO - LaTeX decoding ...
+[3392] bibtex.pm:1340> INFO - Found BibTeX data source 'library.bib'
+[3429] Utils.pm:193> WARN - Duplicate entry key: 'Tanouchi2015' in file 'library.bib', skipping ...
+[3468] Utils.pm:193> WARN - Duplicate entry key: 'Quan2009' in file 'library.bib', skipping ...
+[3486] Utils.pm:193> WARN - Duplicate entry key: 'Brochu2010' in file 'library.bib', skipping ...
+[3500] Utils.pm:193> WARN - Duplicate entry key: 'Wang2011' in file 'library.bib', skipping ...
+[3502] Utils.pm:193> WARN - Duplicate entry key: 'Chen2015' in file 'library.bib', skipping ...
+[3510] Utils.pm:193> WARN - Duplicate entry key: '10.15252/msb.20167402' in file 'library.bib', skipping ...
+[3537] Utils.pm:193> WARN - ISBN '0028-0836 (Print)$\backslash$r0028-0836 (Linking)' in entry 'Gardner2000' is invalid - run biber with '--validate_datamodel' for details.
+[3544] Utils.pm:193> WARN - ISBN '0028-0836 (Print) 0028-0836 (Linking)' in entry 'Elowitz2000' is invalid - run biber with '--validate_datamodel' for details.
+[3556] Utils.pm:193> WARN - ISBN '1546-1696 (Electronic) 1087-0156 (Linking)' in entry 'Lou2012' is invalid - run biber with '--validate_datamodel' for details.
+[3570] Utils.pm:193> WARN - ISBN '1548-7105 (Electronic) 1548-7091 (Linking)' in entry 'Chen2013' is invalid - run biber with '--validate_datamodel' for details.
+[3582] Utils.pm:193> WARN - ISBN '2161-5063 (Electronic)$\backslash$r2161-5063 (Linking)' in entry 'Rudge2016' is invalid - run biber with '--validate_datamodel' for details.
+[3592] Utils.pm:193> WARN - ISBN '1095-9203' in entry 'Bonnet2013' is invalid - run biber with '--validate_datamodel' for details.
+[3607] Utils.pm:193> WARN - ISBN '1095-9203 (Electronic) 0036-8075 (Linking)' in entry 'Nielsen2016' is invalid - run biber with '--validate_datamodel' for details.
+[3622] Utils.pm:193> WARN - ISBN '1098-5530 (Electronic)$\backslash$n0021-9193 (Linking)' in entry 'Zheng2016' is invalid - run biber with '--validate_datamodel' for details.
+[3622] Utils.pm:193> WARN - month field 'dec' in entry 'Zheng2016' is not an integer - this will probably not sort properly.
+[3638] Utils.pm:193> WARN - month field 'aug' in entry 'you2013' is not an integer - this will probably not sort properly.
+[3688] Utils.pm:193> WARN - month field 'mar' in entry 'Zhang2017c' is not an integer - this will probably not sort properly.
+[3718] Utils.pm:193> WARN - month field 'mar' in entry 'Hutchison3rd2016' is not an integer - this will probably not sort properly.
+[3744] Utils.pm:193> WARN - month field 'mar' in entry 'Luo2019' is not an integer - this will probably not sort properly.
+[3765] Utils.pm:193> WARN - ISBN '2041-1723 (Electronic) 2041-1723 (Linking)' in entry 'Zong2017' is invalid - run biber with '--validate_datamodel' for details.
+[3855] Utils.pm:193> WARN - ISBN '0008-5472 (Print)$\backslash$r0008-5472 (Linking)' in entry 'Erickson2017' is invalid - run biber with '--validate_datamodel' for details.
+[3872] Utils.pm:193> WARN - month field 'jun' in entry '10.1016/j.copbio.2019.11.015' is not an integer - this will probably not sort properly.
+[3884] Utils.pm:193> WARN - ISBN '1095-9203' in entry 'Scott2010' is invalid - run biber with '--validate_datamodel' for details.
+[3884] Utils.pm:193> WARN - month field 'nov' in entry 'Scott2010' is not an integer - this will probably not sort properly.
+[3905] Utils.pm:193> WARN - month field 'may' in entry 'Zheng2020' is not an integer - this will probably not sort properly.
+[3916] Utils.pm:193> WARN - ISBN '13695274' in entry 'Borkowski2016' is invalid - run biber with '--validate_datamodel' for details.
+[3928] Utils.pm:193> WARN - ISBN '2041-1723 (Electronic) 2041-1723 (Linking)' in entry 'Towbin2017' is invalid - run biber with '--validate_datamodel' for details.
+[3941] Utils.pm:193> WARN - month field 'jan' in entry '10.1038/msb.2012.70' is not an integer - this will probably not sort properly.
+[4002] Utils.pm:193> WARN - month field 'feb' in entry 'Liu2018a' is not an integer - this will probably not sort properly.
+[4044] Utils.pm:193> WARN - month field 'apr' in entry 'Bintu2005' is not an integer - this will probably not sort properly.
+[4054] Utils.pm:193> WARN - ISBN '1552-4469 (Electronic)$\backslash$r1552-4450 (Linking)' in entry 'Tan2009' is invalid - run biber with '--validate_datamodel' for details.
+[4054] Utils.pm:193> WARN - month field 'nov' in entry 'Tan2009' is not an integer - this will probably not sort properly.
+[4072] Utils.pm:193> WARN - month field 'jan' in entry '10.1093/nar/gkv1280' is not an integer - this will probably not sort properly.
+[4129] Utils.pm:193> WARN - ISBN '1744-4292 (Electronic)$\backslash$r1744-4292 (Linking)' in entry 'Cookson2011a' is invalid - run biber with '--validate_datamodel' for details.
+[4129] Utils.pm:193> WARN - month field 'jan' in entry 'Cookson2011a' is not an integer - this will probably not sort properly.
+[4162] Utils.pm:193> WARN - month field 'jun' in entry 'Wei2019' is not an integer - this will probably not sort properly.
+[4190] Utils.pm:193> WARN - ISBN '2161-5063 (Electronic) 2161-5063 (Linking)' in entry 'Qian2017' is invalid - run biber with '--validate_datamodel' for details.
+[4220] Utils.pm:193> WARN - ISBN '0027-8424' in entry 'Wang:2011b4f' is invalid - run biber with '--validate_datamodel' for details.
+[4258] Utils.pm:193> WARN - month field 'dec' in entry 'Thomas2018' is not an integer - this will probably not sort properly.
+[4294] Utils.pm:193> WARN - month field 'sep' in entry 'Sleight2013' is not an integer - this will probably not sort properly.
+[4359] Utils.pm:193> WARN - month field 'apr' in entry 'Kimelman2012' is not an integer - this will probably not sort properly.
+[4390] Utils.pm:193> WARN - month field 'mar' in entry 'Lamberte2017' is not an integer - this will probably not sort properly.
+[4409] Utils.pm:193> WARN - ISBN '1552-4450' in entry 'Stanton2014' is invalid - run biber with '--validate_datamodel' for details.
+[4409] Utils.pm:193> WARN - month field 'feb' in entry 'Stanton2014' is not an integer - this will probably not sort properly.
+[4471] Utils.pm:193> WARN - month field 'apr' in entry 'Cho2018' is not an integer - this will probably not sort properly.
+[4504] Utils.pm:193> WARN - month field 'may' in entry 'Shuler1979' is not an integer - this will probably not sort properly.
+[4528] Utils.pm:193> WARN - month field 'jan' in entry 'Tomita1999' is not an integer - this will probably not sort properly.
+[4540] Utils.pm:193> WARN - month field 'dec' in entry 'carrera2015build' is not an integer - this will probably not sort properly.
+[4560] Utils.pm:193> WARN - month field 'jul' in entry 'karr2012whole' is not an integer - this will probably not sort properly.
+[4582] Utils.pm:193> WARN - month field 'dec' in entry 'Liao2017' is not an integer - this will probably not sort properly.
+[4593] Utils.pm:193> WARN - month field 'jul' in entry 'Carrera2014' is not an integer - this will probably not sort properly.
+[4603] Utils.pm:193> WARN - month field 'sep' in entry 'Shuler2008' is not an integer - this will probably not sort properly.
+[4617] Utils.pm:193> WARN - month field 'mar' in entry 'Roberts2011' is not an integer - this will probably not sort properly.
+[4627] Utils.pm:193> WARN - month field 'jun' in entry 'Purcell2013a' is not an integer - this will probably not sort properly.
+[4636] Utils.pm:193> WARN - month field 'aug' in entry 'Babtie2017' is not an integer - this will probably not sort properly.
+[4676] Utils.pm:193> WARN - ISBN '0167-7799' in entry 'DelVecchio2015' is invalid - run biber with '--validate_datamodel' for details.
+[4677] Utils.pm:193> WARN - month field 'feb' in entry 'DelVecchio2015' is not an integer - this will probably not sort properly.
+[4689] Utils.pm:193> WARN - month field 'jul' in entry 'Isaacs2004' is not an integer - this will probably not sort properly.
+[4700] Utils.pm:193> WARN - ISBN '1087-0156 (Print)$\backslash$n1087-0156 (Linking)' in entry 'Martin2003' is invalid - run biber with '--validate_datamodel' for details.
+[4700] Utils.pm:193> WARN - month field 'jul' in entry 'Martin2003' is not an integer - this will probably not sort properly.
+[4709] Utils.pm:193> WARN - month field 'jan' in entry 'Atsumi2008' is not an integer - this will probably not sort properly.
+[4720] Utils.pm:193> WARN - month field 'feb' in entry 'Liu2018b' is not an integer - this will probably not sort properly.
+[4765] Utils.pm:193> WARN - month field 'jan' in entry 'rhodius2013' is not an integer - this will probably not sort properly.
+[4792] Utils.pm:193> WARN - month field 'may' in entry 'An2009a' is not an integer - this will probably not sort properly.
+[4803] Utils.pm:193> WARN - month field 'nov' in entry 'Meyer2018' is not an integer - this will probably not sort properly.
+[4810] Utils.pm:193> WARN - month field 'oct' in entry 'Zhang2018b' is not an integer - this will probably not sort properly.
+[4833] Utils.pm:193> WARN - ISBN '2161-5063 (Electronic) 2161-5063 (Linking)' in entry 'Shopera2017' is invalid - run biber with '--validate_datamodel' for details.
+[4841] Utils.pm:193> WARN - month field 'dec' in entry 'huang2018' is not an integer - this will probably not sort properly.
+[4853] Utils.pm:193> WARN - month field 'jun' in entry 'Stephanie2019' is not an integer - this will probably not sort properly.
+[4862] Utils.pm:193> WARN - ISBN '4146701802898' in entry 'Darlington2018' is invalid - run biber with '--validate_datamodel' for details.
+[4862] Utils.pm:193> WARN - month field 'dec' in entry 'Darlington2018' is not an integer - this will probably not sort properly.
+[4878] Utils.pm:193> WARN - month field 'may' in entry 'ceroni2018burden' is not an integer - this will probably not sort properly.
+[4906] Utils.pm:193> WARN - month field 'apr' in entry 'Segall-Shapiro2018' is not an integer - this will probably not sort properly.
+[4908] Utils.pm:193> WARN - BibTeX subsystem: C:\Users\pan_c\AppData\Local\Temp\ud4kwAfPzm\library.bib_23060.utf8, line 6, warning: 172 characters of junk seen at toplevel
+[5023] UCollate.pm:68> INFO - Overriding locale 'zh__pinyin' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[5023] UCollate.pm:68> INFO - Overriding locale 'zh__pinyin' defaults 'variable = shifted' with 'variable = non-ignorable'
+[5023] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'zh__pinyin'
+[5115] bbl.pm:636> INFO - Writing 'SLCN_template.bbl' with encoding 'UTF-8'
+[5190] bbl.pm:739> INFO - Output to SLCN_template.bbl
+[5190] Biber.pm:110> INFO - WARNINGS: 74
